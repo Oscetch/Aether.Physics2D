@@ -1,0 +1,9 @@
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\build.props
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\adb.props
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\Aether.Physics2D.ANDROID.csproj.AssemblyReference.cache
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\res.flag
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\R.txt
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\R.cs.flag
+D:\Projects\Aether.Physics2D\Physics2D\obj\Debug\110\Aether.Physics2D.ANDROID.csproj.CoreCompileInputs.cache

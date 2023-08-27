@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeL+RVlyKalQF0dP3TBuq1k5zJRSVqOgs0rtSDt04LLeICa4USBciVaX1LIWETS40cdUJmKD9AkeExKmuUMFUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Aether.Physics2D\\Physics2D\\Aether.Physics2D.ANDROID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halld\\.nuget\\packages\\monogame.framework.android\\3.8.1.303\\monogame.framework.android.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\halld\\.nuget\\packages\\microsoft.android.ref.31\\32.0.509\\microsoft.android.ref.31.32.0.509.nupkg.sha512"
+  ],
+  "logs": []
+}
